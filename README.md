@@ -1,6 +1,7 @@
 # simple_webserver
 a simple web server, for practice
-#学习Unix C编程，写了简单的一个web服务器
+
+# 学习Unix C编程，写了简单的一个web服务器
 1.start_server启动tcp服务器
 2.run_server循环监听tcp请求
 3.多线程处理客户端连接
